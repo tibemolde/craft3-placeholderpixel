@@ -10,8 +10,8 @@
 		"placeholder pixel"
 	],
 	"support" : {
-		"docs" : "https://github.com/sjenset/placeholder-pixel/blob/master/README.md",
-		"issues" : "https://github.com/sjenset/placeholder-pixel/issues"
+		"docs" : "https://github.com/tibemolde/placeholder-pixel/blob/master/README.md",
+		"issues" : "https://github.com/tibemolde/placeholder-pixel/issues"
 	},
 	"license" : "MIT",
 	"authors" : [
@@ -35,7 +35,7 @@
 		"schemaVersion" : "1.0.0",
 		"hasCpSettings" : false,
 		"hasCpSection" : false,
-		"changelogUrl" : "https://raw.githubusercontent.com/sjenset/placeholder-pixel/master/CHANGELOG.md",
+		"changelogUrl" : "https://raw.githubusercontent.com/tibemolde/placeholder-pixel/master/CHANGELOG.md",
 		"components" : {
 			"placeholder" : "tibemolde\\placeholderpixel\\services\\PixelService"
 		},
