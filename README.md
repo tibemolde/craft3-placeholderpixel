@@ -6,7 +6,7 @@ Pixels once generated are cached on a width * height basis to reduce load
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-beta.23 or later.
+This plugin requires Craft CMS 3.0.0-RC1 or later.
 
 ## Installation
 
@@ -69,7 +69,6 @@ Examples:
 
 Some things to do, and ideas for potential features:
 
-* Register it on packagist
-* Release it
+* Make it better, somehow? :o
 
 Brought to you by [TIBE Molde](https://github.com/tibemolde)
