@@ -2,7 +2,7 @@
 	"name" : "tibemolde/placeholder-pixel",
 	"description" : "Create a base64-encoded transparent pixel of the given width and height",
 	"type" : "craft-plugin",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"keywords" : [
 		"craft",
 		"cms",
@@ -11,8 +11,8 @@
 		"placeholder pixel"
 	],
 	"support" : {
-		"docs" : "https://github.com/tibemolde/placeholder-pixel/blob/master/README.md",
-		"issues" : "https://github.com/tibemolde/placeholder-pixel/issues"
+		"docs" : "https://github.com/sjenset/placeholder-pixel/blob/master/README.md",
+		"issues" : "https://github.com/sjenset/placeholder-pixel/issues"
 	},
 	"license" : "MIT",
 	"authors" : [
@@ -36,7 +36,7 @@
 		"schemaVersion" : "1.0.0",
 		"hasCpSettings" : false,
 		"hasCpSection" : false,
-		"changelogUrl" : "https://raw.githubusercontent.com/tibemolde/placeholder-pixel/master/CHANGELOG.md",
+		"changelogUrl" : "https://raw.githubusercontent.com/sjenset/placeholder-pixel/master/CHANGELOG.md",
 		"components" : {
 			"placeholder" : "tibemolde\\placeholderpixel\\services\\PixelService"
 		},
