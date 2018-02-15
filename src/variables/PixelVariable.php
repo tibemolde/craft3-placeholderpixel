@@ -4,7 +4,7 @@
  *
  * Create a base64-encoded transparent pixel of the given width and height
  *
- * @link      https://github.com/tibemolde
+ * @link      https://github.com/sjenset
  * @copyright Copyright (c) 2018 TIBE Molde
  */
 
