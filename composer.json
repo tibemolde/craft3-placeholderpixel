@@ -2,7 +2,6 @@
 	"name" : "tibemolde/placeholder-pixel",
 	"description" : "Create a base64-encoded transparent pixel of the given width and height",
 	"type" : "craft-plugin",
-	"version" : "1.0.1",
 	"keywords" : [
 		"craft",
 		"cms",
