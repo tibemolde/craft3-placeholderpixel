@@ -10,8 +10,8 @@
 		"placeholder pixel"
 	],
 	"support" : {
-		"docs" : "https://github.com/tibemolde/placeholder-pixel/blob/master/README.md",
-		"issues" : "https://github.com/tibemolde/placeholder-pixel/issues"
+		"docs" : "https://github.com/tibemolde/craft3-placeholderpixel/blob/master/README.md",
+		"issues" : "https://github.com/tibemolde/craft3-placeholderpixel/issues"
 	},
 	"license" : "MIT",
 	"authors" : [
